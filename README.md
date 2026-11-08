@@ -1,0 +1,2 @@
+# .github
+Fortnite Scripts
